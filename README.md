@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hi there, it's Ceyda!     <img src = "https://media.giphy.com/media/eM57bk1nADRUQ/giphy.gif" width="70px" > 
+<img src = "https://media.giphy.com/media/UD12bLJsmcP5Kfq5Jn/giphy.gif" width="70px" > 
+
+
+
+
+<img src = "https://media.giphy.com/media/YrIHNs5i2AnwsMedKj/giphy.gif" width="200px">   
 
 <!--
 **tomiece317/tomiece317** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
