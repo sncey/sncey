@@ -28,7 +28,7 @@ Seeking discourse or camaraderie? I extend my virtual hand for a digital handsha
 
 🌐 Join me on my journey of merging science, technology, and creativity. Let's collaborate, learn, and build a future where innovation knows no bounds. Together, we can code a brighter tomorrow!
 
-![](https://komarev.com/ghpvc/?username=tomiece317)
+![](https://komarev.com/ghpvc/?username=sncey)
 
 ## 📚 My Tech Stacks: 
 <div >
